@@ -1,0 +1,9 @@
+.display {
+    position: fixed;
+    width: 100vw;
+    top: 0px;
+    height: 100vh;
+    background-color: #fff;
+    justify-content: center;
+    align-items: center;
+}
